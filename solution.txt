@@ -1,3 +1,2 @@
-• Repository Name: progintro/hw0-<YourUsername>
+• Repository Name: progintro/hw0-JasonGiak
 • Αρχείο Λύσης Filepath: pages/solution.txt
-• README Filepath (optional): pages/README.md
