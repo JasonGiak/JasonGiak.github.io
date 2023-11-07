@@ -1,1 +1,3 @@
-https://github.com/progintro/hw0-JasonGiak
+• Repository Name: progintro/hw0-<YourUsername>
+• Αρχείο Λύσης Filepath: pages/solution.txt
+• README Filepath (optional): pages/README.md
